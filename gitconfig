@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tfordham03@gmail.com
+	name = Todd Fordham
